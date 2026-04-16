@@ -1,12 +1,7 @@
-# ⚡ Electrical Engineering Portfolio
 
-Welcome to my Electrical Engineering portfolio showcasing practical design projects in power systems, renewable energy, and electrical design using industry-standard tools.
+##  5kW Residential Solar PV System Design (Off-Grid Case Study)
 
----
-
-## 🌞 5kW Residential Solar PV System Design (Off-Grid Case Study)
-
-### 🎯 Objective
+###  Objective
 Design a **5kW off-grid residential solar PV system** to supply the daily energy demand of a household, ensuring energy independence and reliable power supply.
 
 ---
@@ -14,6 +9,10 @@ Design a **5kW off-grid residential solar PV system** to supply the daily energy
 ## Project Overview
 
 This project focuses on the design and basic sizing of a standalone solar PV system. It includes system components selection, load estimation, and conceptual layout design.
+## Project Visualization
+
+### System Layout
+![Off-Grid Solar PV System](off-grid.png)
 
 ### Key Design Considerations
 - Daily energy demand estimation
@@ -32,10 +31,6 @@ This project focuses on the design and basic sizing of a standalone solar PV sys
 
 ---
 
-## Project Visualization
-
-### System Layout
-![Off-Grid Solar PV System](off-grid.png)
 
 ---
 
