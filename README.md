@@ -175,10 +175,6 @@ Battery (Ah) = Energy / (Voltage × DoD)
 
 ---
 
-## Results Visualization
-
-
----
 
 ##  Key Engineering Insight
 
